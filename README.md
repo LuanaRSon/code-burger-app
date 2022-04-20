@@ -3,6 +3,8 @@
 <img src="./src/assets/code-burger-app.gif" alt="exemplo imagem">
 
 > Preencha os inputs com o pedido e o nome do cliente para cadastrar um novo pedido. Todos os pedidos vão ser mostrados na página seguinte. Você pode excluí-los clicando no ícone da lixeira.
+>
+> Você pode ver o site no ar acessando [este link](https://code-burger-app.netlify.app/).
 
 
 
@@ -36,7 +38,7 @@ Antes de começar, verifique se você atendeu aos seguintes requisitos:
 
 Para instalar o Code Burger App, siga estas etapas:
 
-1. Clone este repositório;
+1. Clone este repositório
 
    $ git clone <https://github.com/LuanaRSon/code-burger-app.git>
 
@@ -44,13 +46,13 @@ Para instalar o Code Burger App, siga estas etapas:
 
    $ npm install ou $ yarn install
 
-   para instalar as dependências do projeto;
+   para instalar as dependências do projeto
 
 3. Use o comando
 
    $ npm run dev ou $ yarn dev
 
-   para iniciar o servidor na porta 3000;
+   para iniciar o servidor na porta 3000
 
 4. Acesse http://localhost:3000/.
 
